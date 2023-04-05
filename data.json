@@ -1,0 +1,14 @@
+[
+    {
+        "id_visit": 112,
+        "date": "2023-04-01 11:26:54",
+        "time_on_site": 562,
+        "browser": "edge"
+    },
+    {
+        "id_visit": 113,
+        "date": "2023-04-04 16:44:34",
+        "time_on_site": 986,
+        "browser": "chrome"
+    }
+]
