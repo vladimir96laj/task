@@ -22,5 +22,5 @@ var_dump($array3);
 
 echo "<hr>";
 
-$createApi = new Response([$array1,$array2,$array3,]);
+$createApi = new Response([$array1,$array2,$array3]);
 $createApi->create_api();
