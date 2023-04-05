@@ -10,7 +10,7 @@ class CsvFetch {
         }
     }
 
-    public function get_array_from_csv() {
+    public function get_array_from_csv() : array {
         $csv_dir = dirname(dirname(__FILE__)) . '/csv/';
         $file = fopen($csv_dir . $this->filename, 'r');
         while (!feof($file)) {
